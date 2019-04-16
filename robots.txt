@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://guchohcie.blackwolfsec.cc/sitemap.xml
